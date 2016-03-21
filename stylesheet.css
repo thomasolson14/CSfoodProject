@@ -14,13 +14,21 @@
 }
 .block{
   display: inline-block;
-  width: 10%;
-  padding: 10% 10% 10% 10%;
+  float: center;
+  width: 18%;
+  padding: 15% 15% 15% 15%;
   background-color: #f0f0ee;
   border: 5% #EEAA7B;
+  height:15%;
 }
 .more{
+  display: inline-block;
+  float: center;
+  width: 18%;
+  padding: 15% 15% 15% 15%;
   background-color: #f0f0ee;
+  border: 5% #EEAA7B;
+  height:5%;
 }
 .footer{
   background-color: #E37222;
