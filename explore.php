@@ -1,6 +1,9 @@
 <html>
-  <head>Explore Food</head>
+  <head>
+    Explore Food
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  </head>
+    
   <body>
   <div class="nav_bar">/*Nav Bar*/</div>
   <div class="center_pane">
