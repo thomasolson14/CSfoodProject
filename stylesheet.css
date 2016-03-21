@@ -1,7 +1,7 @@
 .nav_bar{
   background-color: #E37222;
   width: 100%;
-  height: 20%;
+  height: 17%;
   border: 3% #EEAA7B;
   border-top-style: none;
   border-right-style: none;
@@ -9,13 +9,15 @@
   border-left-style: none;
 }
 .center_pane{
+  height:80%;
   background-color: #07889B;
 }
 .block{
+  display: inline-block;
   width: 25%;
   padding: 10% 10% 10% 10%;
   background-color: #f0f0ee;
-  border: 3% #EEAA7B;
+  border: 5% #EEAA7B;
 }
 .more{
   background-color: #f0f0ee;
@@ -23,10 +25,10 @@
 .footer{
   background-color: #E37222;
   width: 100%;
-  height: 20%;
+  height: 17%;
   border: 3% #EEAA7B;
-  border-top-style: none;
+  border-top-style: solid;
   border-right-style: none;
-  border-bottom-style: solid;
+  border-bottom-style: none;
   border-left-style: none;
 }
