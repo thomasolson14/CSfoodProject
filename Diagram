@@ -6,6 +6,7 @@ Food info
   Favorite types o food? (checkboxes)
   Location:
   Rating:
+    Adds new line every time a new rating is inputted
   History:
     Past visited restaurants and suggests new ones
 Restaurant options
