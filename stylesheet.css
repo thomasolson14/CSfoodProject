@@ -25,10 +25,11 @@
   display: inline-block;
   float: center;
   width: 18%;
-  margin: 0% 5% 5% 5%;
+  margin: 0% auto 5% auto;
   background-color: #f0f0ee;
   border: 3% #EEAA7B;
   height:3%;
+  
 }
 .footer{
   background-color: #E37222;
