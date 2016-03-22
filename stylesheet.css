@@ -20,6 +20,7 @@
   background-color: #f0f0ee;
   border: 5% #EEAA7B solid;
   height:35%;
+  border-radius:15px;
 }
 .more{
   display: inline-block;
@@ -28,7 +29,8 @@
   margin: 0% 5% 5% 5%;
   background-color: #f0f0ee;
   border: 3% #EEAA7B;
-  height:3%;
+  height:5%;
+  border-radius:5px;
   
 }
 .footer{
