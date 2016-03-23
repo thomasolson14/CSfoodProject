@@ -11,12 +11,12 @@
   border-bottom-style: solid;
   border-left-style: none;
   
-  opacity: 0.4;
-  filter: alpha(opacity=40); /* For IE8 and earlier */
+  opacity: 1;
+  
 }
 
 .nav_bar:onscroll {
-    opacity: 1.0;
+    opacity: 0.4;
 }
 .center_pane{
   height:80%;
