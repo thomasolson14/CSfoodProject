@@ -1,0 +1,19 @@
+Account info
+  name:
+  email:
+  password:
+Food info
+  Favorite types o food? (checkboxes)
+  Location:
+  Rating:
+    Adds new line every time a new rating is inputted
+  History:
+    Past visited restaurants and suggests new ones
+Restaurant options
+  Quick, cheap, formal, average rate, customer rate
+Types of food
+  Mediterranian           Classic Anerican
+  Midddle Eastern         South American
+  South Asian             African
+  South East asian        European
+  East Asuab
