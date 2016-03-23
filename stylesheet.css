@@ -15,7 +15,7 @@
   
 }
 
-.nav_bar:onscroll {
+.nav_bar: onscroll {
     opacity: 0.4;
 }
 .center_pane{
