@@ -10,6 +10,12 @@
   border-bottom-style: solid;
   border-left-style: none;
   
+  opacity: 0.4;
+  filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.nav_bar:hover {
+    opacity: 1.0;
 }
 .center_pane{
   height:80%;
