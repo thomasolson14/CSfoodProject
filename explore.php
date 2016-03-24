@@ -5,7 +5,7 @@
     
   <body>
   <div class="nav_bar">/*Nav Bar*/</div>
-  <div class = "divider"></div>
+  /*<div class = "divider"></div>*/
   <div class="center_pane">
     <div class="block">
       <img src ="">
